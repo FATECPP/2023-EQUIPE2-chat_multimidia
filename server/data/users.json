@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Asta",
+    "photo": "src/assets/img/users/asta.jpg",
+    "groups": ["74d1f36e-b631-48ac-8ef1-ec690c598df3", "4231f0f8-7b0f-4929-8d36-770e72d5fb02", "21b6ba2a-314f-4172-a9f3-2cb153b495d8"],
+    "id": "4dd7d793-3f4d-42a0-bf38-11bac8adbf89",
+    "userType": "aluno",
+    "password": "1234"
+  },
+  {
+    "name": "Gojo",
+    "photo": "src/assets/img/users/gojo.jpg",
+    "groups": ["f61631d1-174a-4ba5-8f88-5079cde3b1df", "4231f0f8-7b0f-4929-8d36-770e72d5fb02", "b9d9154a-581b-4a8c-a980-3559b26b870e"],
+    "id": "55d93dc9-428c-41e1-b8a3-e2f3fc6c5175",
+    "userType": "aluno",
+    "password": "1234"
+  },
+  {
+    "name": "Goku",
+    "photo": "src/assets/img/users/goku.jpg",
+    "groups": ["74d1f36e-b631-48ac-8ef1-ec690c598df3", "21b6ba2a-314f-4172-a9f3-2cb153b495d8", "4231f0f8-7b0f-4929-8d36-770e72d5fb02", "f61631d1-174a-4ba5-8f88-5079cde3b1df"],
+    "id": "108376ac-8e3d-4386-a0a7-0e3bb4020802",
+    "userType": "aluno",
+    "password": "1234"
+  },
+  {
+    "name": "Gon",
+    "photo": "src/assets/img/users/gon.jpg",
+    "groups": ["4231f0f8-7b0f-4929-8d36-770e72d5fb02", "f61631d1-174a-4ba5-8f88-5079cde3b1df", "d71b8bad-2711-4238-8cb4-a8f1b6020e20"],
+    "id": "9a65193e-a226-4d04-8a9c-41293a95e76f",
+    "userType": "aluno",
+    "password": "1234"
+  },
+  {
+    "name": "Sanji",
+    "photo": "src/assets/img/users/sanji.png",
+    "groups": ["2494f840-063c-4cbb-92ba-a3cdbeae076a", "74d1f36e-b631-48ac-8ef1-ec690c598df3", "4231f0f8-7b0f-4929-8d36-770e72d5fb02", "f76c8a28-4c25-4c73-9f21-2e2695a13fd3", "b9d9154a-581b-4a8c-a980-3559b26b870e", "c34a00c4-ec79-46a6-9a33-7ca35e607ed9", "d71b8bad-2711-4238-8cb4-a8f1b6020e20", "f61631d1-174a-4ba5-8f88-5079cde3b1df"],
+    "id": "5e08aa23-56dd-443e-b12f-0454073e1bc3",
+    "userType": "aluno",
+    "password": "1234"
+  },
+  {
+    "name": "Ichigo",
+    "photo": "src/assets/img/users/ichigo.jpg",
+    "groups": ["21b6ba2a-314f-4172-a9f3-2cb153b495d8", "4231f0f8-7b0f-4929-8d36-770e72d5fb02", "b9d9154a-581b-4a8c-a980-3559b26b870e"],
+    "id": "06b420bc-3ae7-4322-8f01-2c86a6946a0e",
+    "userType": "aluno",
+    "password": "1234"
+  },
+  {
+    "name": "Inosuke",
+    "photo": "src/assets/img/users/inosuke.jpg",
+    "groups": ["74d1f36e-b631-48ac-8ef1-ec690c598df3", "21b6ba2a-314f-4172-a9f3-2cb153b495d8", "b9d9154a-581b-4a8c-a980-3559b26b870e"],
+    "id": "c34a00c4-ec79-46a6-9a33-7ca35e607ed9",
+    "userType": "professor",
+    "password": "1234"
+  },
+  {
+    "name": "Luffy",
+    "photo": "src/assets/img/users/luffy.jpg",
+    "groups": ["4231f0f8-7b0f-4929-8d36-770e72d5fb02", "74d1f36e-b631-48ac-8ef1-ec690c598df3", "f61631d1-174a-4ba5-8f88-5079cde3b1df"],
+    "id": "533e3219-92ac-4e1d-b583-8691b1ca1280",
+    "userType": "professor",
+    "password": "1234"
+  },
+  {
+    "name": "Saitama",
+    "photo": "src/assets/img/users/saitama.png",
+    "groups": ["74d1f36e-b631-48ac-8ef1-ec690c598df3", "4231f0f8-7b0f-4929-8d36-770e72d5fb02", "d71b8bad-2711-4238-8cb4-a8f1b6020e20"],
+    "id": "f3631ac8-2237-40a8-9c76-b9d9309c3994",
+    "userType": "professor",
+    "password": "1234"
+  },
+  {
+    "name": "Sasuke",
+    "photo": "src/assets/img/users/sasuke.jpg",
+    "groups": ["21b6ba2a-314f-4172-a9f3-2cb153b495d8", "d71b8bad-2711-4238-8cb4-a8f1b6020e20", "c34a00c4-ec79-46a6-9a33-7ca35e607ed9"],
+    "id": "08177274-be61-4c14-8c85-f56e7f64bcef",
+    "userType": "professor",
+    "password": "1234"
+  },
+  {
+    "name": "Sung",
+    "photo": "src/assets/img/users/sung.jpg",
+    "groups": ["f76c8a28-4c25-4c73-9f21-2e2695a13fd3", "74d1f36e-b631-48ac-8ef1-ec690c598df3", "4231f0f8-7b0f-4929-8d36-770e72d5fb02"],
+    "id": "2c9aa696-0c3e-43dd-8ab5-430b7a8f6b08",
+    "userType": "professor",
+    "password": "1234"
+  },
+  {
+    "name": "Thorfinn",
+    "photo": "src/assets/img/users/thorfinn.jpg",
+    "groups": ["b9d9154a-581b-4a8c-a980-3559b26b870e", "21b6ba2a-314f-4172-a9f3-2cb153b495d8", "f76c8a28-4c25-4c73-9f21-2e2695a13fd3"],
+    "id": "a48f018b-be22-46bd-be1a-098b5fa88c7b",
+    "userType": "professor",
+    "password": "1234"
+  }
+]

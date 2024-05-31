@@ -1,0 +1,28 @@
+version: "3.7"
+
+services:
+  client:
+    build: 
+      context: ./client/
+      dockerfile: Dockerfile
+    container_name: vue_app
+    ports: 
+      - "7159:7159"
+  server: 
+    build:
+      context: ./server/
+      dockerfile: Dockerfile
+    container_name: php_server
+    ports:
+      - "8890:80"
+      - "9090:9090"
+  mongodb:
+    image: mongo
+    container_name: database_mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./data:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: zatch73
+      MONGO_INITDB_ROOT_PASSWORD: o1234
